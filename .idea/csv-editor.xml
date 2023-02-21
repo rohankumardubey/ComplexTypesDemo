@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\src\main\scala\com\learning\spark\examples\Dump1\part-00000-70fdf53f-c1a6-4393-ab8d-ba298f3cc1c9-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\scala\com\learning\spark\examples\Dump2\part-00000-16bcca8a-c040-4ab7-ab86-a20050ffbca2-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\scala\com\learning\spark\examples\Dump3\part-00000-94d696b8-b303-4bfe-a4b9-e3019f390d49-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\scala\com\learning\spark\examples\Dump4\part-00000-ea834257-1500-4e1d-8502-905da011569f-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\scala\com\learning\spark\examples\complex_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\scala\com\learning\spark\examples\part-00000-ed09fbd7-5442-49cb-bf45-53749a2e7d54-c000-pipe.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
